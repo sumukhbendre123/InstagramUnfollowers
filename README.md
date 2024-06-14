@@ -16,6 +16,8 @@ pip install selenium webdriver_manager requests
 git clone https://github.com/sumukhbendre123/InstagramUnfollowers.git
 cd InstagramUnfollowers
 pip install -r requirements.txt
+python Followmania.py
+python UserInfo.py
 username = 'your_instagram_username'
 password = 'your_instagram_password'
 
